@@ -1,4 +1,4 @@
-<img alt="Coding gif" align="center" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img alt="Coding gif" align="center"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 <h1 align="center">Hi 👋, I'm Md. Al-Amin</h1>
 <h3 align="center">A passionate Web Developer from Dhaka, Bangladesh</h3>
 
@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 My porfolio website link [https://al-amin-six.vercel.app](https://al-amin-six.vercel.app)
+- 👨‍💻 My portfolio website link [https://al-amin-six.vercel.app](https://al-amin-six.vercel.app)
 
 - 💬 Ask me about **Java Script**
 
 - 📫 How to reach me **mdalaminh052@gmail.com**
 
-- ⚡ Fun fact **I am exploring new thing always.**
+- ⚡ Fun fact **I am exploring new things always.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
