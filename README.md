@@ -1,4 +1,4 @@
-<img alt="Coding gif" align="center" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0TK62Zsf0qM_G2KtMP35mv&ust=1712083886163000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjAtdDXoYUDFQAAAAAdAAAAABBI" />
+<img alt="Coding gif" align="center" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0TK62Zsf0qM_G2KtMP35mv&ust=1712083886163000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjAtdDXoYUDFQAAAAAdAAAAABBI" />
 <h1 align="center">Hi 👋, I'm Md. Al-Amin</h1>
 <h3 align="center">A passionate Web Developer from Dhaka, Bangladesh</h3>
 
