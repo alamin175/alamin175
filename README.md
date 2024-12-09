@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mdalaminh052@gmail.com**
 
-- ⚡ Fun fact **I am exploring new things always.**
+- ⚡ Fun fact **I am trying to explore new things always.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
