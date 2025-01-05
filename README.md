@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Java Script**
 
-- 📫 How to reach me **mdalaminh052@gmail.com**
+- 📫 How to reach me! **mdalaminh052@gmail.com**
 
 - ⚡ Fun fact **I am trying to explore new things always.**
 
